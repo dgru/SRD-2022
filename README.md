@@ -6,6 +6,7 @@ _Supplemental information for Canton et al. University of Pittsburgh Department 
 **Files:**
 1. markers.pdf - Figure of all immune and endothelial marker comparison plots
 2. code.R - Model code
+3. poster.pdf - Poster presentation
 
 **References:**
 1. Sperry et al., 2018 https://www.nejm.org/doi/full/10.1056/NEJMoa1802345
