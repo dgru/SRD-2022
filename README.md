@@ -2,7 +2,7 @@
 _Supplemental information for Canton et al. University of Pittsburgh Department of Surgery Research Day presentation_
 
 **Files:**
-1. "Markers.pdf" contains all results
+1. "Markers.pdf" contains all cytokine and endothelial marker comparisons
 
 **References:**
 1. Sperry et al., 2018 https://www.nejm.org/doi/full/10.1056/NEJMoa1802345
