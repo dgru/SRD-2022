@@ -1,5 +1,5 @@
 # University of Pittsburgh Surgery Research Day 2022
-_Additional files to accompany University of Pittsburgh Surgery Research Day presentation_
+_Supplemental information for Canton et al. University of Pittsburgh Surgery Research Day presentation 2022_
 
 **Files:**
 1. "Markers.pdf" contains all results
