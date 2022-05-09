@@ -4,7 +4,7 @@ _Supplemental information for Canton et al. University of Pittsburgh Department 
 **Presentation title:** Circulating markers of immune function and tissue damage are associated with operative delay and mortality among severely injured orthopaedic polytrauma patients
 
 **Files:**
-1. "Markers.pdf" - Figure of all immune and endothelial marker comparison plots
+1. Markers.pdf - Figure of all immune and endothelial marker comparison plots
 2. code.R - model code
 
 **References:**
