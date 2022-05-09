@@ -2,7 +2,7 @@
 Additional files to accompany University of Pittsburgh Surgery Research Day presentation
 
 Files:
-1. "markers.pdf" contains all results
+1. "Markers.pdf" contains all results
 
 References for further reading:
 1. Sperry et al., 2018 https://www.nejm.org/doi/full/10.1056/NEJMoa1802345
