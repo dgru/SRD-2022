@@ -1,6 +1,8 @@
 # University of Pittsburgh Surgery Research Day 2022
 _Supplemental information for Canton et al. University of Pittsburgh Department of Surgery Research Day presentation_
 
+**Presentation title:** Circulating markers of immune function and tissue damage are associated with operative delay and mortality among severely injured orthopaedic polytrauma patients
+
 **Files:**
 1. "Markers.pdf" contains all immune and endothelial marker comparisons
 
