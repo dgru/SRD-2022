@@ -4,7 +4,7 @@ _Supplemental information for Canton et al. University of Pittsburgh Department 
 **Files:**
 1. "Markers.pdf" contains all results
 
-**References for further reading:**
+**References:**
 1. Sperry et al., 2018 https://www.nejm.org/doi/full/10.1056/NEJMoa1802345
 2. Gruen et al., 2020 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7205428/
 3. Roberts et al., 2005 https://pubmed.ncbi.nlm.nih.gov/15948472/
