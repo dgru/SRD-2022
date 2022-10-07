@@ -1,4 +1,4 @@
-# Orthopaedic Trauma Association (OTA) & University of Pittsburgh Surgery Research Day (SRD)
+# Orthopaedic Trauma Association (OTA) & University of Pittsburgh Surgery Research Day (SRD) 2022
 _Supplemental information for Canton et al. 2022 Poster Presentation_
 
 **Presentation title:** Circulating markers of immune function and tissue damage are associated with operative delay and mortality among severely injured orthopaedic polytrauma patients
